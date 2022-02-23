@@ -16,6 +16,7 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
+![Screenshot from 2022-02-23 15-09-33 1](https://user-images.githubusercontent.com/10972674/155317511-cf17bb39-6c97-4990-81cf-ca2cf1f3902b.png)
 
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
 
